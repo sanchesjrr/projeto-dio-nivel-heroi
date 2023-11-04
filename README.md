@@ -29,4 +29,4 @@ Este código irá imprimir a seguinte mensagem no console:
 O herói Price está no nível Diamante.
 
 
-Projeto feito com o Bootcamp da DIO - Potência Tech iFood - Programação do Zero
+Projeto feito seguindo o Bootcamp da DIO - Potência Tech iFood - Programação do Zero
